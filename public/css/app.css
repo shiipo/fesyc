@@ -1,0 +1,54 @@
+body{
+    background-color: #eceff1;
+}
+
+a.deco-none {
+    color: #FFFFFF !important;
+    text-decoration:none;
+}
+
+.zero{
+    padding: 0;
+}
+
+#all-comments { display: none !important; }
+.comments-open { display: none !important; }
+
+.box-head{
+    height: 5em;
+    width: 100%;
+}
+
+.box-avatar{
+    width: 100%;
+    margin-top: -2em;
+}
+
+.box{
+    background-color: #FFFFFF;
+    padding-bottom: 1em;
+}
+
+.banner {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #0a6ebd;
+    height: 80px;
+}
+.banner > img{
+    position: relative;
+}
+.banner > .info{
+    position: relative;
+    margin-top: -7em;
+}
+
+/*Material Colors*/
+.red{
+    background-color: #db4437;
+}
+
+/*Fin*/

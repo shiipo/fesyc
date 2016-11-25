@@ -1,0 +1,71 @@
+1. Informacion academica.
+
+    a. Campo de actuacion:
+        * Linea de investigacion.
+
+    b. Estudios y titulos obtenidos:
+        * Nivel Academico
+        * Grado académico
+        * Año de titulacion
+
+    c. Cursos:
+        * Nombre
+        * Tipo
+        * Año
+        * Duracion en horas
+        * Pais
+        * Institucion
+
+    d. Idiomas:
+        * Idioma
+        * Nivel de habla
+        * Nivel de escritura
+        * Nivel de lectura
+
+    e. Reconocimientos:
+        * Nombre
+        * Tipo
+        * Motivo
+        * Ámbito
+        * Pais
+        * Año
+
+2. Experiencia Laboral.
+
+    a. Informacion laboral:
+        * Desempeño (nombre del trabajo)
+        * Estado del trabajo (actual primario, secundario o anterior)
+        * Cargo (presidente, administrador, etc)
+        * Institucion
+        * Fecha de ingreso
+        * Pais
+
+3. Formacion de talentos.
+
+    a. Agregar Formacion:
+        * Tipo (Tutor de tesis doctoral, facilitador, etc)
+        * Titulo
+        * Institucion
+        * Año de culminacion
+        * Pais
+
+4. Actividades de Ciencia, tecnologia e innovacion.
+
+    a. Agregar Actividad:
+        * Nombre
+        * Beneficiario
+        * Ambito
+        * Fecha de inicio
+        * Fecha de culminacion
+        * Objetivo
+        * Resultado
+
+5. Participacion en Eventos.
+
+    a. Participacion en eventos cientificos y de innovacion:
+        * Nombre
+        * Tipo de evento (congreso, seminario, etc)
+        * Participo como (asistente, ponente, etc)
+        * Ambito (local, regional, nacional, internacional)
+        * Año
+        * Pais
